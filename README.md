@@ -1,5 +1,5 @@
 # AI Language Translator
-
+![Project Screenshot](Screenshot.png)
 An AI-powered language translation tool built using Streamlit and Deep Translator.
 
 ## Features

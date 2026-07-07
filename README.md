@@ -13,11 +13,6 @@ An AI-powered language translation tool built using Streamlit and Deep Translato
 - Streamlit
 - Deep Translator
 
-## Developed By
-
-**Meerab Awan**
-
-GitHub: https://github.com/meerabawan
 ## How to Run
 
 1. Clone the repository
@@ -37,3 +32,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Developed By
+
+**Meerab Awan**
+
+GitHub: https://github.com/meerabawan
